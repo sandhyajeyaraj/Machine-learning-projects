@@ -1,0 +1,6 @@
+[submodule "employee-attrition-prediction"]
+	path = employee-attrition-prediction
+	url = https://github.com/sandhyajeyaraj/employee-attrition-prediction.git
+[submodule "house-price-prediction"]
+	path = house-price-prediction
+	url = https://github.com/sandhyajeyaraj/house-price-prediction.git
