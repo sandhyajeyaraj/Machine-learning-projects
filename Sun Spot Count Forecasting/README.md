@@ -1,0 +1,4 @@
+# Sun Spot Count Forecasting
+The number of sunspots observed on the “surface” of the Sun varies from year to year. The Sun is most active during the years of sunspot maximums, releasing the greatest amount of energy and radiation into the Earth’s environment. During these periods, the Earth experiences an increase in the Northern and Southern Lights, along with potential disruptions in radio transmissions and power grids. Therefore, it is important to keep track of the sunspot count.
+
+Using the monthly average sunspot data available from 1749 to 2010, the task is to build a model that can forecast the monthly average sunspot count for the period of 2011–2020.
